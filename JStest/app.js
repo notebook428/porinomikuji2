@@ -1,13 +1,13 @@
 // 運勢の一覧
 const fortunes = ["ポリン", "ポポリン", "マーリン", "ドロップス", "デビルリング", "ゴーストリング","エンジェリング"];
 const imageMap = {
-  "ポリン"        : "./img/porin0.png",
-  "ポポリン"      : "./img/porin1.png",
-  "マーリン"      : "./img/porin2.png",
-  "ドロップス"    : "./img/porin3.png",
-  "デビルリング"  :   "./img/porin4.png",
-  "ゴーストリング": "./img/porin5.png",
-  "エンジェリング":   "./img/porin6.png"
+  "ポリン"        : "JStest/img/porin0.png",
+  "ポポリン"      : "JStest/img/porin1.png",
+  "マーリン"      : "JStest/img/porin2.png",
+  "ドロップス"    : "JStest/img/porin3.png",
+  "デビルリング"  :   "JStest/img/porin4.png",
+  "ゴーストリング": "JStest/img/porin5.png",
+  "エンジェリング":   "JStest/img/porin6.png"
 };
 
 const button = document.getElementById("draw");
